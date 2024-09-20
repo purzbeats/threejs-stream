@@ -5,7 +5,7 @@
 ```git clone https://github.com/purzbeats/threejs-stream
 cd threejs-stream
 npm install
-npm start``
+npm start```
 
 You'll need Node.js and NPM installed.
 [Node.js](https://nodejs.org/en/download/)
